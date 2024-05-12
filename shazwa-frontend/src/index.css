@@ -1,0 +1,39 @@
+:root {
+  /* --background: white;
+  --primary: #5e071d;
+  --primary2: #960a2d;
+  --logo: #b84a62;
+  --secondary: #f29ca3;
+  --third: #f7cacd;
+  --alternative: #119fb8;
+  --text1: #090909; */
+
+  --background: white;
+  --primary: #b6666f;
+  --primary2: #ca757f;
+  --logo: #b6666f;
+  --secondary: #e4c2c1;
+  --third: #fef2f2;
+  --alternative: #f53163;
+  --text1: #181818;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  background: var(--background);
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
