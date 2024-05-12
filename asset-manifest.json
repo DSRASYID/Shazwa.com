@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.ba4c9bca.css",
-    "main.js": "/static/js/main.523e6dce.js",
-    "static/media/banner_kids.png": "/static/media/banner_kids.fff815a581793a7380fb.png",
-    "static/media/banner_women.png": "/static/media/banner_women.5a27fc4e4533e57e4676.png",
-    "static/media/banner_mens.png": "/static/media/banner_mens.eed7197157196f319b17.png",
-    "static/media/hero_image.png": "/static/media/hero_image.09ff1c4114792a6143c2.png",
-    "static/media/exclusive_image.png": "/static/media/exclusive_image.e8118f2149d9cb916980.png",
-    "static/media/product_4.png": "/static/media/product_4.ea0420ca9cec08d6df05.png",
-    "static/media/product_2.png": "/static/media/product_2.d4e74f367160ec10fb34.png",
-    "static/media/product_1.png": "/static/media/product_1.5a757396ee7ff5dd91c1.png",
-    "static/media/product_3.png": "/static/media/product_3.be48863df18b272b8f59.png",
-    "static/media/shazwa_webnavbar.svg": "/static/media/shazwa_webnavbar.128e4ab171549da4d4e949b46e747c7c.svg",
-    "index.html": "/index.html",
-    "main.ba4c9bca.css.map": "/static/css/main.ba4c9bca.css.map",
-    "main.523e6dce.js.map": "/static/js/main.523e6dce.js.map"
+    "main.css": "/Shazwa.com/static/css/main.ba4c9bca.css",
+    "main.js": "/Shazwa.com/static/js/main.e24e7db6.js",
+    "static/media/banner_kids.png": "/Shazwa.com/static/media/banner_kids.fff815a581793a7380fb.png",
+    "static/media/banner_women.png": "/Shazwa.com/static/media/banner_women.5a27fc4e4533e57e4676.png",
+    "static/media/banner_mens.png": "/Shazwa.com/static/media/banner_mens.eed7197157196f319b17.png",
+    "static/media/hero_image.png": "/Shazwa.com/static/media/hero_image.09ff1c4114792a6143c2.png",
+    "static/media/exclusive_image.png": "/Shazwa.com/static/media/exclusive_image.e8118f2149d9cb916980.png",
+    "static/media/product_4.png": "/Shazwa.com/static/media/product_4.ea0420ca9cec08d6df05.png",
+    "static/media/product_2.png": "/Shazwa.com/static/media/product_2.d4e74f367160ec10fb34.png",
+    "static/media/product_1.png": "/Shazwa.com/static/media/product_1.5a757396ee7ff5dd91c1.png",
+    "static/media/product_3.png": "/Shazwa.com/static/media/product_3.be48863df18b272b8f59.png",
+    "static/media/shazwa_webnavbar.svg": "/Shazwa.com/static/media/shazwa_webnavbar.128e4ab171549da4d4e949b46e747c7c.svg",
+    "index.html": "/Shazwa.com/index.html",
+    "main.ba4c9bca.css.map": "/Shazwa.com/static/css/main.ba4c9bca.css.map",
+    "main.e24e7db6.js.map": "/Shazwa.com/static/js/main.e24e7db6.js.map"
   },
   "entrypoints": [
     "static/css/main.ba4c9bca.css",
-    "static/js/main.523e6dce.js"
+    "static/js/main.e24e7db6.js"
   ]
 }
